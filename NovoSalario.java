@@ -5,7 +5,7 @@ public class NovoSalario {
         Scanner scanner = new Scanner(System.in);
 
                 //variaveis
-        double s, r = 0, sf;
+        double s, r, sf;
         // s = salário
         // r = reajuste. obs: já em porcetagem
         // sf = salário final
