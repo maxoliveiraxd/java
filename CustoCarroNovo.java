@@ -5,7 +5,7 @@ public class CustoCarroNovo {
         Scanner scanner = new Scanner(System.in);
 
                       //variaveis
-        double cfab = 0, cfim;
+        double cfab, cfim;
         //cfab = custo de fábrica
         //cfim = custo final
 
