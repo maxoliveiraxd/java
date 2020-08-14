@@ -5,7 +5,7 @@ public class SalarioVendedor {
         Scanner scanner = new Scanner(System.in);
 
         //variaveis
-        int nc = 0;
+        int nc;
         double vt, sfixo, vc, sfim;
         //nc = número de carros vendidos
         //vt = valor total das vendas
